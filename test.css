@@ -1,0 +1,29 @@
+form{
+    margin: 10px;
+}
+#name{
+    margin-bottom: 10px;
+    margin-top: 7px;
+}
+.container {
+    display: flex;
+    height: 100vh; /* Full height of the viewport */
+}
+.half {
+    flex: 1; /* Equal size */
+    padding: 20px;
+    box-sizing: border-box;
+}
+.left {
+    background-color: #154a80; /* Light gray */
+}
+.right {
+    background-color: #e9ecef; /* Slightly darker gray */
+}
+.reg-form{
+    padding-left: 90px;
+    background-color: aliceblue;
+    margin: 10px;
+    padding-bottom: 50px;
+    padding-top: 20px;
+}
